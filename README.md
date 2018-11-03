@@ -2,16 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsum below
+## Website contents
 
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
+1. index.html
